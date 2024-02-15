@@ -30,3 +30,6 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 [Live Demo](https://prashver-ocr.streamlit.app/)
 
+https://github.com/prashver/optical-character-recognition/assets/84378440/6a716bda-0c0c-41b0-afb3-8edf8b50f830
+
+
