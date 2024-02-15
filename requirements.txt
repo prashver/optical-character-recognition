@@ -3,5 +3,4 @@ pandas~=2.2.0
 streamlit~=1.31.1
 pillow~=10.2.0
 easyocr
-cv2
 base64
